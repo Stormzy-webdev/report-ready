@@ -1,0 +1,97 @@
+learner_code,first_name,subject,assessment,term,max_mark,mark
+T01,Amahle,Mathematics,Term 1 test,1,50,23
+T01,Amahle,Mathematics,Term 1 assignment,1,30,15
+T01,Amahle,English Home Language,Term 1 test,1,50,19
+T01,Amahle,English Home Language,Term 1 oral,1,20,10
+T01,Amahle,Mathematics,Term 2 test,2,50,26
+T01,Amahle,Mathematics,Term 2 assignment,2,30,14
+T01,Amahle,English Home Language,Term 2 test,2,50,24
+T01,Amahle,English Home Language,Term 2 oral,2,20,12
+T02,Bheki,Mathematics,Term 1 test,1,50,44
+T02,Bheki,Mathematics,Term 1 assignment,1,30,27
+T02,Bheki,English Home Language,Term 1 test,1,50,45
+T02,Bheki,English Home Language,Term 1 oral,1,20,18
+T02,Bheki,Mathematics,Term 2 test,2,50,47
+T02,Bheki,Mathematics,Term 2 assignment,2,30,26
+T02,Bheki,English Home Language,Term 2 test,2,50,44
+T02,Bheki,English Home Language,Term 2 oral,2,20,19
+T03,Carla,Mathematics,Term 1 test,1,50,23
+T03,Carla,Mathematics,Term 1 assignment,1,30,17
+T03,Carla,English Home Language,Term 1 test,1,50,28
+T03,Carla,English Home Language,Term 1 oral,1,20,10
+T03,Carla,Mathematics,Term 2 test,2,50,23
+T03,Carla,Mathematics,Term 2 assignment,2,30,17
+T03,Carla,English Home Language,Term 2 test,2,50,23
+T03,Carla,English Home Language,Term 2 oral,2,20,10
+T04,Dumisani,Mathematics,Term 1 test,1,50,26
+T04,Dumisani,Mathematics,Term 1 assignment,1,30,18
+T04,Dumisani,English Home Language,Term 1 test,1,50,31
+T04,Dumisani,English Home Language,Term 1 oral,1,20,10
+T04,Dumisani,Mathematics,Term 2 test,2,50,25
+T04,Dumisani,Mathematics,Term 2 assignment,2,30,16
+T04,Dumisani,English Home Language,Term 2 test,2,50,22
+T04,Dumisani,English Home Language,Term 2 oral,2,20,10
+T05,Elize,Mathematics,Term 1 test,1,50,26
+T05,Elize,Mathematics,Term 1 assignment,1,30,16
+T05,Elize,English Home Language,Term 1 test,1,50,24
+T05,Elize,English Home Language,Term 1 oral,1,20,9
+T05,Elize,Mathematics,Term 2 test,2,50,26
+T05,Elize,Mathematics,Term 2 assignment,2,30,15
+T05,Elize,English Home Language,Term 2 test,2,50,22
+T05,Elize,English Home Language,Term 2 oral,2,20,11
+T06,Farhaan,Mathematics,Term 1 test,1,50,28
+T06,Farhaan,Mathematics,Term 1 assignment,1,30,19
+T06,Farhaan,English Home Language,Term 1 test,1,50,30
+T06,Farhaan,English Home Language,Term 1 oral,1,20,12
+T06,Farhaan,Mathematics,Term 2 test,2,50,23
+T06,Farhaan,Mathematics,Term 2 assignment,2,30,15
+T06,Farhaan,English Home Language,Term 2 test,2,50,23
+T06,Farhaan,English Home Language,Term 2 oral,2,20,9
+T07,Gugu,Mathematics,Term 1 test,1,50,33
+T07,Gugu,Mathematics,Term 1 assignment,1,30,22
+T07,Gugu,English Home Language,Term 1 test,1,50,37
+T07,Gugu,English Home Language,Term 1 oral,1,20,15
+T07,Gugu,Mathematics,Term 2 test,2,50,38
+T07,Gugu,Mathematics,Term 2 assignment,2,30,23
+T07,Gugu,English Home Language,Term 2 test,2,50,40
+T07,Gugu,English Home Language,Term 2 oral,2,20,16
+T08,Hannah,Mathematics,Term 1 test,1,50,32
+T08,Hannah,Mathematics,Term 1 assignment,1,30,20
+T08,Hannah,English Home Language,Term 1 test,1,50,29
+T08,Hannah,English Home Language,Term 1 oral,1,20,13
+T08,Hannah,Mathematics,Term 2 test,2,50,28
+T08,Hannah,Mathematics,Term 2 assignment,2,30,17
+T08,Hannah,English Home Language,Term 2 test,2,50,33
+T08,Hannah,English Home Language,Term 2 oral,2,20,13
+T09,Itumeleng,Mathematics,Term 1 test,1,50,20
+T09,Itumeleng,Mathematics,Term 1 assignment,1,30,14
+T09,Itumeleng,English Home Language,Term 1 test,1,50,23
+T09,Itumeleng,English Home Language,Term 1 oral,1,20,8
+T09,Itumeleng,Mathematics,Term 2 test,2,50,16
+T09,Itumeleng,Mathematics,Term 2 assignment,2,30,11
+T09,Itumeleng,English Home Language,Term 2 test,2,50,15
+T09,Itumeleng,English Home Language,Term 2 oral,2,20,6
+T10,Jayden,Mathematics,Term 1 test,1,50,28
+T10,Jayden,Mathematics,Term 1 assignment,1,30,14
+T10,Jayden,English Home Language,Term 1 test,1,50,27
+T10,Jayden,English Home Language,Term 1 oral,1,20,11
+T10,Jayden,Mathematics,Term 2 test,2,50,22
+T10,Jayden,Mathematics,Term 2 assignment,2,30,12
+T10,Jayden,English Home Language,Term 2 test,2,50,22
+T10,Jayden,English Home Language,Term 2 oral,2,20,8
+T11,Keabetswe,Mathematics,Term 1 test,1,50,18
+T11,Keabetswe,Mathematics,Term 1 assignment,1,30,12
+T11,Keabetswe,English Home Language,Term 1 test,1,50,21
+T11,Keabetswe,English Home Language,Term 1 oral,1,20,8
+T11,Keabetswe,Mathematics,Term 2 test,2,50,15
+T11,Keabetswe,Mathematics,Term 2 assignment,2,30,11
+T11,Keabetswe,English Home Language,Term 2 test,2,50,17
+T11,Keabetswe,English Home Language,Term 2 oral,2,20,5
+T12,Lindiwe,Mathematics,Term 1 test,1,50,38
+T12,Lindiwe,Mathematics,Term 1 assignment,1,30,24
+T12,Lindiwe,English Home Language,Term 1 test,1,50,34
+T12,Lindiwe,English Home Language,Term 1 oral,1,20,16
+T12,Lindiwe,Mathematics,Term 2 test,2,50,41
+T12,Lindiwe,Mathematics,Term 2 assignment,2,30,27
+T12,Lindiwe,English Home Language,Term 2 test,2,50,44
+T12,Lindiwe,English Home Language,Term 2 oral,2,20,16

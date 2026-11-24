@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+*.log
+
+# Database backups contain learner data: never commit them.
+backups/
+
+# Personal planning notes (kept locally, not published).
+teacher-application-firstdraft.txt
