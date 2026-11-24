@@ -36,7 +36,21 @@ Next: test with a real teacher and fill in the school's own report template.
    ```
 
 4. Log in as `demo@example.com` / `demo-password` (Ms Mokoena). Class 5B has term 2 comments in every state; class 6A has none yet. `npm run seed` resets only this account.
-5. For AI drafting, install [Ollama](https://ollama.com) and run `ollama pull llama3.2:3b`. It's free and runs on your own computer. To use Claude instead (paid), set `AI_PROVIDER=claude` and `ANTHROPIC_API_KEY` in `server/.env`, then restart the API.
+5. For AI drafting, install [Ollama](https://ollama.com) and download a model. It's free and runs on your own computer.
+   - **Recommended:** `ollama pull gemma3:12b`, then set `OLLAMA_MODEL=gemma3:12b` in `server/.env`. It needs about 8 GB of disk and a graphics card with about 12 GB of memory, and it sticks to the marks better.
+   - **Lighter:** `ollama pull llama3.2:3b` (the default). It fits on more computers but invents details more often.
+
+   To use Claude instead (paid), set `AI_PROVIDER=claude` and `ANTHROPIC_API_KEY` in `server/.env`, then restart the API.
+
+## Starting, sharing and backups (Windows)
+
+- **`Start ReportReady.bat`:** double-click to start Ollama (if installed), the app and a browser tab. Close its window to stop the app.
+- **`Share ReportReady.bat`:** double-click to get a temporary `https://….trycloudflare.com` link for testing on another device, using a free [Cloudflare quick tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/).
+  - Needs `cloudflared`: install it with `winget install Cloudflare.cloudflared`.
+  - Everything, including the AI, still runs on this computer. Nothing is stored online.
+  - The link works only while that window is open, and it changes each time.
+  - Anyone with the link can reach the login page, so close the window when testing is done.
+- **`npm run backup`:** saves the whole database to `backups/report-ready-<date>-<time>.sql`. The folder is git-ignored, because backups contain learner data. To restore, run `psql "<DATABASE_URL>" -f backups/<file>.sql`.
 
 ## How it works for a teacher
 
